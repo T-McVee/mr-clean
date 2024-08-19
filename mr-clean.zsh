@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 if [ $# -eq 0 ]; then
   echo "Please provide a directory to clean up."
