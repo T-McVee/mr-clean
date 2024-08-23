@@ -7,4 +7,4 @@ Clean up those messy folders
 3.  Run script with`./mr-clean.zsh` followed by:
    - `--downloads | -dl` to clean up Downloads
    - !!WIP!!  `--desktop | -dk ` to clean up Desktop
-   - `--undo | -u` followed by one of the above commands to undo mr-clean's work
+   - `--undo | -u` followed by one of the above commands to undo mr-clean's work in the selected directory
