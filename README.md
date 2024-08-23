@@ -8,3 +8,4 @@ Clean up those messy folders
    - `--downloads | -dl` to clean up Downloads
    - !!WIP!!  `--desktop | -dk ` to clean up Desktop
    - `--undo | -u` followed by one of the above commands to undo mr-clean's work in the selected directory
+   - `--help | -h` for a list of commands
