@@ -12,7 +12,7 @@ print_help() {
   echo "Usage: dir-clean-up.sh [directory]"
   echo "Options:"
   echo "--downloads | -dl: Clean up the Downloads directory"
-  echo "--desktop | -dt: Clean up the Desktop directory"
+  echo "--desktop | -dt: !!WIP!! Clean up the Desktop directory"
   echo "--undo | -u: Undo the last clean up"
   exit 0
 }
